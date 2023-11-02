@@ -1,6 +1,11 @@
 # Develop override settings
 
 url: http://localhost:4000
+title: "Edge Intelligence Research Lab"
+title_seperator: "_"
+name: &name "John Nguyen and Liang Zhao"
+description: "description goes here"
+repository: "JohnN310.github.io"
 
 analytics:
   provider: false
@@ -11,3 +16,13 @@ comments:
 
 sass:
   style: expanded
+
+  #Site author 
+  author: 
+    name: "John Nguyen"
+    avater: "avater.png"
+    bio: "bio goes here"
+    location: "Atlanta, Georgia"
+    email: "nguyendacanhkhoa2004@gmail.com"
+    github: "JohnN310"
+    
