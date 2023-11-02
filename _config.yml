@@ -11,9 +11,9 @@ title                    : "Edge Experience Intelligence Lab"
 title_separator          : "-"
 name                     : &name "John Nguyen"
 description              : &description "Undergraduate student"
-url                      : https://EdgeIntelligenceResearchLab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://JohnN310.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "EdgeIntelligenceResearchLab/EdgeIntelligenceResearchLab.github.io"
+repository               : "JohnN310/JohnN310.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
