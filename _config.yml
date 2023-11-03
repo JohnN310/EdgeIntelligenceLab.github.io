@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Edge Experience Intelligence Lab"
+title                    : "Edge Intelligence Research Lab"
 title_separator          : "-"
 name                     : &name "John Nguyen"
 description              : &description "Undergraduate student"
-url                      : https://JohnN310.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://EdgeIntelligenceLab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JohnN310/JohnN310.github.io"
+repository               : "EdgeIntelligenceLab/EdgeIntelligenceLab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : JohnNguyen
+  username               : 
 facebook:
-  username               : Khoa Nguyen
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "John"
   avatar           : "profile.png"
-  bio              : "19 years old, currently living near Atlanta Georgia"
-  location         : "Atlanta Georgia "
+  bio              : "19 years old, currently living near Atlanta Georgia" #put Dr. Zhao's bio here 
+  location         : "Marietta, Georgia"  
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "add google scholar here"
