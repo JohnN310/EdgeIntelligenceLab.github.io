@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Edge Intelligence Research Lab"
 title_separator          : "-"
-name                     : &name "John Nguyen"
+name                     : &name "Liang Zhao"
 description              : &description "Undergraduate student"
 url                      : https://JohnN310.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "John"
+  name             : "Liang Zhao"
   avatar           : "profile.png"
-  bio              : "19 years old, currently living near Atlanta Georgia" #put Dr. Zhao's bio here 
+  bio              : "I am currently an assistant professor of Information Technology at Kennesaw State University (KSU) and a SunTrust Faculty Fellow. I received my Ph.D in computer science from Georgia State University, GA, USA and M.S in Electrical Engineering from Lehigh University, PA, USA in 2016 and 2012, respectively. Before my current position, I was a research data scientist at IBM. My research interests span the areas of cyber security, big data computing & analytics, and machine learning. I have a specific interest in developing efficient and secure computing frameworks for Cyber-Physical Systems and Internet of Things." #put Dr. Zhao's bio here 
   location         : "Marietta, Georgia"  
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

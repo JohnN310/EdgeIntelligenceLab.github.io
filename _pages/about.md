@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "The Edge Intelligence Research Lab: Pioneering Innovations in Cybersecurity and Intelligent Systems"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -49,4 +49,10 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
-Hello! I'm a 19-year-old college student majoring in computer science, and coding is not just my academic pursuit but also my passion. I find immense joy in writing code, often spending my free time exploring new programming languages and tackling coding challenges. My enthusiasm for technology goes hand in hand with my research experience, where I delve into intriguing computer science topics. Besides my love for coding, I'm deeply passionate about music. I enjoy playing the guitar and expressing myself through singing. As a Christian, my faith plays a central role in my life, guiding my values and beliefs. Through the harmonious blend of my love for coding, music, and faith, I continue to explore the boundless possibilities that the world of technology and creativity has to offer.
+The Edge Intelligence Research Lab at Kennesaw State University is dedicated to advancing the frontier of computer science through innovative research projects. Our primary purpose is to explore cutting-edge technologies and develop novel solutions that address critical challenges in the field of information technology.
+
+At the heart of our research endeavors are projects that delve into complex areas such as encrypted malicious malware detection using machine learning and deep learning techniques. We are committed to developing intelligent systems capable of identifying and mitigating threats in encrypted environments, ensuring the security and integrity of digital ecosystems.
+
+Additionally, our lab is actively engaged in investigating fingerprinting attacks and defenses. Fingerprinting attacks involve the identification and tracking of devices and users based on unique characteristics, posing significant privacy and security concerns. Through rigorous analysis and experimentation, we aim to design robust defenses to safeguard individuals and organizations against these intrusive techniques, fostering a secure digital environment.
+
+By focusing on these critical research areas and projects, the Edge Intelligence Research Lab aims to contribute valuable knowledge, tools, and methodologies to the broader computer science community. Our efforts are geared towards enhancing cybersecurity measures, promoting data privacy, and advancing the capabilities of intelligent systems, ultimately shaping a safer and more secure digital landscape for everyone.
