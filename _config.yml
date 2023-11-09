@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Edge Intelligence Research Lab"
 title_separator          : "-"
-name                     : &name "Khoa Nguyen"
+name                     : &name "John Nguyen"
 description              : &description "Undergraduate student"
 url                      : https://JohnN310.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
